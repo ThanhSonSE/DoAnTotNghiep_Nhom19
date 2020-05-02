@@ -1,0 +1,34 @@
+[
+	{
+		"loaiTaiKhoan" : 1,
+		"email" : "tranquangthinhtk@gmail.com",
+		"password" : "thinh123",
+		"soDienThoai" : "0123456789",
+		"tenNguoiDung" : "Trần Quang Thịnh",
+		"tinhTrang" : 1
+	},
+	{
+		"loaiTaiKhoan" : 0,
+		"email" : "nguyenthanhson@gmail.com",
+		"password" : "son123",
+		"soDienThoai" : "0111222333",
+		"tenNguoiDung" : "Nguyễn Thanh Sơn",
+		"tinhTrang" : 1
+	},
+	{
+		"loaiTaiKhoan" : 0,
+		"email" : "nguyenthilanchi@gmail.com",
+		"password" : "chi123",
+		"soDienThoai" : "0222333444",
+		"tenNguoiDung" : "Nguyễn Thị Lan Chi",
+		"tinhTrang" : 0
+	},
+	{
+		"loaiTaiKhoan" : 0,
+		"email" : "phamcongloi@gmail.com",
+		"password" : "loi123",
+		"soDienThoai" : "0333444555",
+		"tenNguoiDung" : "Phạm Công Lợi",
+		"tinhTrang" : 1
+	}
+]

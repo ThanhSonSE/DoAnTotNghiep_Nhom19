@@ -1,0 +1,86 @@
+[
+	{
+		"idBai":1,
+		"idNguoiDung":1,
+		"date" : "2020-03-27",
+		"time" : "10:10:10",
+		"loaiBai" : 1 
+	},
+	{
+		"idBai":2,
+		"idNguoiDung":1,
+		"date" : "2020-02-15",
+		"time" : "10:10:10",
+		"loaiBai" : 1
+	},
+	{
+		"idBai":3,
+		"idNguoiDung":1,
+		"date" : "2020-04-01",
+		"time" : "10:10:10",
+		"loaiBai" : 1
+	},
+	{
+		"idBai":4,
+		"idNguoiDung":1,
+		"date" : "2020-04-02",
+		"time" : "10:10:10",
+		"loaiBai" : 1
+	},
+	{
+		"idBai":5,
+		"idNguoiDung":1,
+		"date" : "2020-04-03",
+		"time" : "10:10:10",
+		"loaiBai" : 1
+	},
+	{
+		"idBai":6,
+		"idNguoiDung":1,
+		"date" : "2020-04-04",
+		"time" : "10:10:10",
+		"loaiBai" : 1
+	},
+	{
+		"idBai":7,
+		"idNguoiDung":1,
+		"date" : "2020-04-05",
+		"time" : "10:10:10",
+		"loaiBai" : 1
+	},
+	{
+		"idBai":8,
+		"idNguoiDung":1,
+		"date" : "2020-04-06",
+		"time" : "10:10:10",
+		"loaiBai" : 1
+	},
+	{
+		"idBai":9,
+		"idNguoiDung":1,
+		"date" : "2020-04-06",
+		"time" : "10:10:10",
+		"loaiBai" : 1
+	},
+	{
+		"idBai":10,
+		"idNguoiDung":1,
+		"date" : "2020-04-08",
+		"time" : "10:10:10",
+		"loaiBai" : 1
+	},
+	{
+		"idBai":11,
+		"idNguoiDung":1,
+		"date" : "2020-04-10",
+		"time" : "10:10:10",
+		"loaiBai" : 1
+	},
+	{
+		"idBai":12,
+		"idNguoiDung":1,
+		"date" : "2020-04-21",
+		"time" : "10:10:10",
+		"loaiBai" : 1
+	}
+]

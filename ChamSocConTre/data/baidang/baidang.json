@@ -1,0 +1,431 @@
+[
+	{
+		"idLoai":1,
+		"idBai":1, 
+		"tieuDe" : "Sức khỏe là gì ?",
+		"noiDungTomTat": "Càng hiểu biết về sự phát triển của bé, bạn sẽ càng cảm thấy tự tin hơn trong việc chăm sóc và đáp ứng những nhu cầu về chăm sóc sức khỏe cho bé.",
+		"tinhTrang" : 1,
+		"noiDung" :[
+			{
+				"thuTuSapXep":1,
+				"tieuDePhan":"1. Sức khỏe là gì",
+				"noiDung" : "Sức khỏe là trạng thái thoải mái toàn diện về thể chất, tinh thần và xã hội và không phải chỉ bao gồm có tình trạng không có bệnh hay thương tật (theo Tổ chức Y tế Thế giới)[1][2] Mặc dù định nghĩa này là chủ đề của nhiều cuộc tranh cãi, đặc biệt thiếu giá trị hoạt động và vì vấn đề được tạo ra bởi từ toàn diện, nên đây vẫn là vấn đề còn kéo dài.[3][4] Các định nghĩa khác cũng đã được đưa ra, trong số đó định nghĩa gần đây nhất là mối quan hệ giữa sức khỏe và sự thỏa mãn các nhu cầu cá nhân",
+				"hinhAnh" : [
+					{"hinh" : "suckhoe1.jpg"},
+					{"hinh" : "suckhoe2.png"}	
+				]
+			},
+			{
+				"thuTuSapXep":2,
+				"tieuDePhan":"2. Các yếu tố quyết định sức khỏe",
+				"noiDung" : "Nhìn chung, ngữ cảnh mà theo đó nhiều cá nhân xem trọng tình trạng sức khỏe và chất lượng của sống của họ. Người ta ngày càng nhận ra rằng sức khỏe được duy trì và cải thiện không chỉ qua những thành tựu và ứng dụng của khoa học y tế, mà còn qua những cố gắng và những lựa chọn cách sống thông thái của một cá nhân hay xã hội. Theo WHO, các yếu tố chính quyết định đến sức khỏe như môi trường kinh tế và xã hội, môi trường vật lý, và đặc điểm và ứng xử của mỗi cá nhân.",
+				"hinhAnh" : [
+					{"hinh" : "0"}
+				]
+			},
+			{
+				"thuTuSapXep":3,
+				"tieuDePhan":"3. Tập luyện",
+				"noiDung" : "Tập luyện là việc thực hành các động tác nhằm phát triển và duy trì sức khỏe thể chất và sức khỏe toàn diện. Điều này có được nhờ việc rèn luyện các động tác thể dục. Tập luyện thường xuyên là thành phần rất quan trọng giúp ngăn ngừa bệnh tật, ngăn ngừa các bệnh người giàu như ung thư, bệnh tim, bệnh mạch vành, tiểu đường loại 2, béo phì và đau lưng.",
+				"hinhAnh" : [
+					{"hinh" : "suckhoe3.jpg"}
+						
+				]
+			}
+		]
+	},
+	{
+		"idLoai":1,
+		"tieuDe" : "Sức khỏe cho trẻ em",
+		"noiDungTomTat": "Càng hiểu biết về sự phát triển của bé, bạn sẽ càng cảm thấy tự tin hơn trong việc chăm sóc và đáp ứng những nhu cầu về chăm sóc sức khỏe cho bé.",
+		"tinhTrang" : 1,
+		"noiDung" :[
+			{
+				"thuTuSapXep":1,
+				"tieuDePhan":"1. Hiểu bé",
+				"noiDung" : "Càng hiểu biết về sự phát triển của bé, bạn sẽ càng cảm thấy tự tin hơn trong việc chăm sóc và đáp ứng những nhu cầu về chăm sóc sức khỏe cho bé.",
+				"hinhAnh" : [
+					{"hinh" : "suckhoe4.jpg"},
+					{"hinh" : "suckhoe5.png"}	
+				]
+			},
+			{
+				"thuTuSapXep":2,
+				"tieuDePhan":"2. Chăm sóc làn da em bé",
+				"noiDung" : "Da trẻ sơ sinh cực kì mịn màng và mỏng manh luôn cần được mẹ chăm sóc dịu nhẹ và cẩn thận. Da trẻ sơ sinh có thể dễ dàng bị tổn thương chỉ vì vì tiếp xúc quá lâu với ánh sáng mặt trờihoặc không khí quá khô. Các bà mẹ cần giữ thói quen chăm sóc da em bé hàng ngày vừa chống nắng cho bé vừa giữ cho làn da bé có độ ẩm vừa đủ.",
+				"hinhAnh" : [
+					{"hinh" : "suckhoe7.jpg"},
+					{"hinh" : "suckhoe8.png"}	
+				]
+			},
+			{
+				"thuTuSapXep":3,
+				"tieuDePhan":"3. Bé quấy khóc",
+				"noiDung" : "Tại sao bé quấy khóc? Không phải lúc nào bạn cũng tìm được câu trả lời rõ ràng nhưng bạn có thể chắc chắn rằng bé khóc khi có chuyện gì đó không ổn. Đó là cách chủ yếu giúp bé giao tiếp với bạn. ",
+				"hinhAnh" : [
+					{"hinh" : "suckhoe6.jpg"}
+						
+				]
+			}
+		]
+	},
+	{
+		"idLoai":1,
+		"tieuDe" : "6 nguy cơ đối với sức khỏe con trẻ cha mẹ hay bỏ qua",
+		"noiDungTomTat": "Tuổi thơ là một khoảng thời gian rất tuyệt vời của trẻ em, cha mẹ vẫn luôn sẵn sàng làm bất cứ điều tốt nhất cho những đứa con của mình. Tuy nhiên có những việc làm các bậc làm cha mẹ tưởng là tốt cho con nhưng lại gây tác hại ảnh hưởng đến sức khỏe của con.",
+		"tinhTrang" : 1,
+		"noiDung" :[
+			{
+				"thuTuSapXep":1,
+				"tieuDePhan":"Ngồi xe thay vì đẩy xe tập đi",
+				"noiDung" : "Tuổi thơ là một khoảng thời gian rất tuyệt vời của trẻ em, cha mẹ vẫn luôn sẵn sàng làm bất cứ điều tốt nhất cho những đứa con của mình. Tuy nhiên có những việc làm các bậc làm cha mẹ tưởng là tốt cho con nhưng lại gây tác hại ảnh hưởng đến sức khỏe của con.Những tổn hại đã được chứng minh, có ít hiệu quả tích cực mà chiếc xe tập đi có thể mang lại cho trẻ. Những xe tập này đã bị cấm ở Canada.",
+				"hinhAnh" : [
+					{"hinh" : "suckhoe10.png"}	
+				]
+			},
+			{
+				"thuTuSapXep":2,
+				"tieuDePhan":"Nước trái cây và sữa",
+				"noiDung" : "Nước ép trái cây có chế phẩm khử trùng, có ít vitamin nhưng nhiều đường có thể gây ra vấn đề về răng và béo phì. Bác sĩ nhi khoa khuyên dùng nước quả tươi nguyên chất cho trẻ em trên một tuổi, thay thế các loại nước ép đã tiệt trùng.",
+				"hinhAnh" : [
+					{"hinh" : "suckhoe11.jpg"}
+				]
+			},
+			{
+				"thuTuSapXep":3,
+				"tieuDePhan":"Đồ chơi sáng màu",
+				"noiDung" : "Tại sao bé quấy khóc? Không phải lúc nào bạn cũng tìm được câu trả lời rõ ràng nhưng bạn có thể chắc chắn rằng bé khóc khi có chuyện gì đó không ổn. Đó là cách chủ yếu giúp bé giao tiếp với bạn. ",
+				"hinhAnh" : [
+					{"hinh" : "suckhoe13.jpg"}
+						
+				]
+			},
+			{
+				"thuTuSapXep":4,
+				"tieuDePhan":"Quần áo ấm",
+				"noiDung" : "Mặc quá nhiều quần áo có thể ngăn cản cơ thể phát triển để phản ứng phòng vệ đối với sự thay đổi thời tiết, dẫn đến các bệnh liên quan đến nhiệt độ và miễn dịch thấp.",
+				"hinhAnh" : [
+					{"hinh" : "suckhoe14.jpg"}
+						
+				]
+			},
+			{
+				"thuTuSapXep":5,
+				"tieuDePhan":"Thiết bị điện tử và tiện ích",
+				"noiDung" : "Ánh sáng màu xanh lam từ màn hình LED gây tổn thương võng mạc, có thể dẫn đến thoái hóa điểm vàng. Điều này có thể dẫn đến đục thủy tinh thể và mù.",
+				"hinhAnh" : [
+					{"hinh" : "suckhoe15.jpg"}
+						
+				]
+			},
+			{
+				"thuTuSapXep":6,
+				"tieuDePhan":"Thắt dây an toàn khi đi xe",
+				"noiDung" : "Không nên để dây an toàn trên bụng khi mang thai vì có thể gây thương tích cho em bé trong trường hợp xảy ra tai nạn.",
+				"hinhAnh" : [
+					{"hinh" : "suckhoe16.jpg"}
+						
+				]
+			}
+		]
+	},
+	{
+		"idLoai":2,
+		"idBai":4,
+		"tieuDe" : "Giáo dục là gì",
+		"noiDungTomTat": "Giáo dục là gì là điều mà chúng ta sẽ đi tìm hiểu để nhận chân được rõ ràng nhất một từ tưởng như rất quen thuộc, đơn giản mà hàm chứa rất nhiều nội dung.",
+		"tinhTrang" : 1,
+		"noiDung" :[
+			{
+				"thuTuSapXep":1,
+				"tieuDePhan":"1. Giáo dục là gì ?",
+				"noiDung" : "Giáo dục (tiếng Anh: education) theo nghĩa chung là hình thức học tập theo đó kiến thức, kỹ năng, và thói quen của một nhóm người được trao truyền từ thế hệ này sang thế hệ khác thông qua giảng dạy",
+				"hinhAnh" : [
+					{"hinh" : "giaoduc1.jpg"},
+					{"hinh" : "giaoduc2.jpg"}
+				]
+			},
+			{
+				"thuTuSapXep":2,
+				"tieuDePhan":"2. Giáo dục chính quy",
+				"noiDung" : "Hoạt động giáo dục chính quy liên quan đến việc dạy và học trong môi trường trường học và theo một chương trình học nhất định. Chương trình học này được thiết lập tùy theo mục đích đã được xác định trước của trường học trong hệ thống giáo dục.",
+				"hinhAnh" : [
+					{"hinh" : "giaoduc3.jpg"},
+					{"hinh" : "giaoduc4.jpg"}
+				]
+			},
+			{
+				"thuTuSapXep":3,
+				"tieuDePhan":"3. Những hình thức giáo dục khác",
+				"noiDung" : "Giáo dục mở (open education) là một thuật ngữ chung chỉ những tập quán của các cơ sở giáo dục hay những sáng kiến giáo dục nhằm tạo điều kiện cho nhiều người tiếp cận các chương trình giáo dục và đào tạo mà trước đây chỉ tiếp cận được thông qua hệ thống giáo dục chính quy. Tính từ mở nhằm chỉ việc loại trừ những rào cản đã tước đi ở một số người cơ hội tham gia vào hoạt động học tập trong các cơ sở giáo dục. Một khía cạnh của giáo dục mở là việc phát triển và sử dụng những tài nguyên giáo dục mở.Giáo dục trực tuyến (e-learning) là việc sử dụng công nghệ giáo dục dựa trên các phương tiện điện tử trong việc dạy và học. Bằng việc sử dung các công nghệ hiện đại trên chiếc máy tính mà người dùng có thể tham gia một khóa học dễ dàng",
+				"hinhAnh" : [
+					{"hinh" : "giaoduc5.jpg"}	
+				]
+			}
+		]
+	},
+	{
+		"idLoai":2,
+		"idBai":5,
+		"tieuDe" : "Chọn trường cho con: Sau cùng, đâu là điều quan trọng nhất?",
+		"noiDungTomTat": "Trong nhiều lý do chọn trường học cho con mình, các bậc cha mẹ thường dẫn ra vài lý do cơ bản: danh tiếng về chất lượng của trường, cơ sở vật chất, vị trí ngôi trường, điều kiện tài chính (học phí)…",
+		"tinhTrang" : 1,
+		"noiDung" :[
+			{
+				"thuTuSapXep":1,
+				"tieuDePhan":"Các loại trường và ưu - nhược điểm",
+				"noiDung" : "Chi phí giáo dục là khoản đầu tư quan trọng nhất của đời người, mà sự lựa chọn đúng - sai đôi khi dẫn đến những hệ quả khó lòng sửa chữa được. Nó không chỉ là đầu tư về tiền bạc, mà còn là thời gian và nhất là những cơ hội duy nhất, khó mà làm lại cho con cái chúng ta.",
+				"hinhAnh" : [
+					{"hinh" : "giaoduc6.jpg"}
+				]
+			},
+			{
+				"thuTuSapXep":2,
+				"tieuDePhan":"Trường công lập:",
+				"noiDung" : "Học phí thấp, chỉ khoảng 150.000 đồng/tháng. Các chi phí ngoài học phí (tiền học thêm, quà cáp bồi dưỡng thầy cô…) khác nhau, tùy trường, tùy vùng miền, tùy hoàn cảnh. Nhược điểm của các trường công là chương trình học nhồi nhét và cứng nhắc, học thêm gần như không thể tránh, học chủ yếu để thi, nên học sinh học rất vất vả mà vẫn thiếu nhiều kỹ năng thực sự cần sau này trong đời thực.",
+				"hinhAnh" : [
+					{"hinh" : "0"}
+				]
+			},
+			{
+				"thuTuSapXep":3,
+				"tieuDePhan":"Trường tư:",
+				"noiDung" : "Trường tư tồn tại nhờ học phí, vì thế xu hướng chung là học sinh/phụ huynh được coi như khách hàng, nhà trường là bên cung ứng dịch vụ giáo dục. Giáo dục trực tuyến (e-learning) là việc sử dụng công nghệ giáo dục dựa trên các phương tiện điện tử trong việc dạy và học. Bằng việc sử dung các công nghệ hiện đại trên chiếc máy tính mà người dùng có thể tham gia một khóa học dễ dàng",
+				"hinhAnh" : [
+					{"hinh" : "0"}	
+				]
+			},
+			{
+				"thuTuSapXep":4,
+				"tieuDePhan":"Trường quốc tế:",
+				"noiDung" : "Những trường tư có yếu tố nước ngoài thường được gọi là trường quốc tế (luật Việt Nam không quy định loại trường nào là trường quốc tế, vì thế chữ quốc tế ở đây được hiểu phổ biến là chương trình và bằng cấp được công nhận ở các nước phát triển, giáo viên quốc tế, cơ sở vật chất hiện đại).",
+				"hinhAnh" : [
+					{"hinh" : "0"}	
+				]
+			}
+		]
+	},
+	{
+		"idLoai":2,
+		"idBai":6,
+		"tieuDe" : "Mối quan hệ giữa giáo dục Tri thức và Đạo đức cho con",
+		"noiDungTomTat": "Mỗi đứa trẻ từ khi sinh ra đều được cha mẹ định hướng con đường tương lai học vấn để sau này có thể tự làm chủ cuộc đời.",
+		"tinhTrang" : 1,
+		"noiDung" :[
+			{
+				"thuTuSapXep":1,
+				"tieuDePhan":"Tổng quan về giáo dục tri thức",
+				"noiDung" : "Theo định nghĩa thì tri thức là các thông tin, các tài liệu, các hiểu biết về lý thuyết hay thực tế về một đối tượng, một vấn đề, có thể lý giải được về nó, là những gì đã biết, đã được hiểu biết trong một lĩnh vực cụ thể hay toàn bộ trong tổng thể. Tri thức là hiểu biết mà toàn thể nhân loại đã tích lũy liên tục trong lịch sử phát triển. Tri thức tồn tại lâu đời như chính con người, thời nào cũng thế và ở đâu cũng vậy con người không thể sống thiếu tri thức.",
+				"hinhAnh" : [
+					{"hinh" : "giaoduc7.jpg"}
+				]
+			},
+			{
+				"thuTuSapXep":2,
+				"tieuDePhan":"Tổng quan về giáo dục đạo đức",
+				"noiDung" : "Theo định nghĩ thì đạo đức là những tiêu chuẩn, nguyên tắc xử lý các mối quan hệ trong gia đình, cộng đồng hay xã hội được thừa nhận rộng rãi. Đạo đức quy định hành vi, quan hệ của con người đối với nhau và đối với xã hội nói chung, là những nguyên tắc phải tuân theo trong quan hệ giữa người với người, giữa cá nhân với xã hội, phù hợp với yêu cầu của mỗi chế độ chính trị và kinh tế xã hội nhất định. Nếu không tuân theo những “nguyên tắc” ấy thì được gọi là người vô đạo đức.",
+				"hinhAnh" : [
+					{"hinh" : "0"}
+				]
+			},
+			{
+				"thuTuSapXep":3,
+				"tieuDePhan":"Mối quan hệ giữa giáo dục Tri thức và Đạo đức cho con trẻ",
+				"noiDung" : "Giá trị của một con người nói chung và một đứa trẻ nói riêng cần phải đảm bảo cả hai yếu tố tri thức và đạo đức mà chúng ta thường nói ngắn gọn là “tài” và “đức”. Ở đây “tài” được hiểu là tài năng, kiến thức, hiểu biết, kỹ năng giúp con trẻ hoàn thành tốt công việc, đem đến sự tiến bộ, thịnh vượng cho đất nước và nhân loại. Còn “đức” được hiểu là đạo đức, trách nhiệm, là nề nếp, thói quen, các cử chỉ hành vi thể hiện qua thái độ cư xử với ông bà, cha mẹ, anh chị em, bạn bè, thầy cô giáo…",
+				"hinhAnh" : [
+					{"hinh" : "giaoduc8.jpg"}	
+				]
+			}
+		]
+	},
+	{
+		"idLoai":3,
+		"idBai":7,
+		"tieuDe" : "4 nhóm dưỡng chất quan trọng: Chất bột đường, béo, protein, vitamin và khoáng chất",
+		"noiDungTomTat": "Cơ thể luôn cần cung cấp đầy đủ dưỡng chất giúp con người có thể duy trì sự sống, vận động và phát triển một cách toàn diện nhất. Dựa vào nguồn chất dinh dưỡng mà thực phẩm cung cấp thì người ta chia ra 4 nhóm chất dinh dưỡng quan trọng cần thiết cho cơ thể, mỗi giai đoạn phát triển hay mỗi người lại có nhu cầu cung cấp năng lượng khác nhau.",
+		"tinhTrang" : 1,
+		"noiDung" :[
+			{
+				"thuTuSapXep":1,
+				"tieuDePhan":"1. Carbohydrate (còn gọi là nhóm chất bột đường)",
+				"noiDung" : "Là nguồn cung cấp nhiên liệu chính cho hệ thống thần kinh trung ương và năng lượng cho các cơ quan trong cơ thể làm việc. Thành phần cấu tạo nên tế bào và các mô, điều hòa hoạt động của cơ thể, cung cấp chất xơ cần thiết.",
+				"hinhAnh" : [
+					{"hinh" : "0"}	
+				]
+			},
+			{
+				"thuTuSapXep":2,
+				"tieuDePhan":"2. Protein (hay chất đạm)",
+				"noiDung" : "Khi cơ thể tiêu thụ các thực phẩm có chứa protein tại đường tiêu hóa các men tiêu protein sẽ cắt ra thành các axit amin và hấp thụ. Trong số 20 loại axit amin mà cơ thể con người sử dụng thì có 9 loại được gọi là thiết yếu mà cơ thể không tự tổng hợp mà cần lấy từ thực phẩm, nếu thiếu các axit amin này thì cơ thể không tạo được đủ lượng protein cần thiết.",
+				"hinhAnh" : [
+					{"hinh" : "dinhduong1.jpg"}	
+				]
+			},
+			{
+				"thuTuSapXep":3,
+				"tieuDePhan":"3. Chất béo",
+				"noiDung" : "Cấu tạo chất béo: Chất béo được tạo bởi các axit béo, bao gồm loại acid béo no (chủ yếu đến từ các chất béo động vật, dầu cọ, dầu dừa) và không no (có nhiều hơn trong dầu thực vật như olive, hướng dương, đậu nành, mỡ cá, mỡ gà...).",
+				"hinhAnh" : [
+					{"hinh" : "dinhduong2.jpg"}	
+				]
+			},
+			{
+				"thuTuSapXep":4,
+				"tieuDePhan":"4. Vitamin và khoáng chất",
+				"noiDung" : "Vitamin và khoáng chất còn gọi là các vi chất dinh dưỡng chất, nhóm chất này không sinh ra năng lượng. Vi chất dinh dưỡng là những chất mà cơ thể chỉ cần một lượng rất nhỏ nhưng lại có vai trò rất quan trọng, khi thiếu sẽ dẫn đến những ảnh hưởng nghiêm trọng cho cơ thể, đặc biệt là trẻ nhỏ. Cơ thể cần trên 20 loại vitamin và trên 20 loại khoáng chất cần thiết.",
+				"hinhAnh" : [
+					{"hinh" : "dinhduong3.jpg"}	
+				]
+			}
+		]
+	},
+	{
+		"idLoai":3,
+		"idBai":8,
+		"tieuDe" : "Lựa chọn thực phẩm bảo đảm an toàn trong mùa dịch Covid-19",
+		"noiDungTomTat": "Để tăng sức đề kháng trong mùa dịch, việc sử dụng các loại thực phẩm nên tránh hoặc cần bổ sung cho cơ thể là rất quan trọng.Để bảo vệ sức khỏe trong mùa dịch, người dân cần lưu ý lựa chọn thực phẩm để bảo đảm an toàn cho sức khỏe cho bản thân và gia đình.",
+		"tinhTrang" : 1,
+		"noiDung" :[
+			{
+				"thuTuSapXep":1,
+				"tieuDePhan":"Những thực phẩm chúng ta cần tránh",
+				"noiDung" : "Tổ chức Y tế thế giới (WHO) khuyến cáo người dân không nên ăn các loại động vật hoang dã, đặc biệt là rắn, dơi, chuột vốn rất được ưa thích nhiều quốc gia Đông Nam Á.Ngoài ra, các loại đồ ăn tươi sống như: tiết canh, hải sản sống, gỏi cá cũng không nên đưa vào bữa ăn trong mùa dịch vì chúng có thể mang mầm bệnh, ký sinh trùng lên bàn ăn của gia đình. Đơn cử, món tiết canh là một trong những món ăn được tiêu thụ ngay lập tức sau khi được lấy ra từ cơ thể động vật mà không qua bất kỳ bước sơ chế nào bởi vậy vi khuẩn, ký sinh trùng, thậm chí là vi rút có thể sẽ có trong máu của các loài động vật này.Trong khi đó, các loại gỏi cá, đặc biệt là cá nước ngọt, có thể khiến người ăn bị nhiễm các loại sán như sán ruột nhỏ, sán lá gan nếu không qua xử lý nhiệt. Còn các món hải sản như: hàu vắt chanh, hay sushi, sashimi, các loại hải sản có thể ăn sống như: mực, bạch tuộc dễ mang theo mầm bệnh lây nhiễm cho con người khi chỉ được sơ chế với nước hoặc muối.",
+				"hinhAnh" : [
+					{"hinh" : "0"}	
+				]
+			},
+			{
+				"thuTuSapXep":2,
+				"tieuDePhan":"Các lựa chọn thực phẩm thay thế đảm bảo dinh dưỡng",
+				"noiDung" : "Do vậy, để cung cấp đủ chất dinh dưỡng, tăng cường sức đề kháng cho cơ thể, chúng ta có thể lựa chọn các loại thực phẩm có hàm lượng chất dinh dưỡng tương đương như: hải sản cá béo, thịt bò, thịt lợn.Thịt bò chứa hàm lượng kẽm cao có lợi cho việc phòng chống một số chứng bệnh do vi rút gây ra. Kẽm hỗ trợ cơ thể tạo ra bạch cầu giúp hệ miễn dịch hoạt động tốt hơn.",
+				"hinhAnh" : [
+					{"hinh" : "dinhduong4.jpg"}	
+				]
+			}
+		]
+	},
+	{
+		"idLoai":3,
+		"idBai":9,
+		"tieuDe" : "Rối loạn tiêu hóa ở trẻ em nên ăn gì và kiêng ăn gì?",
+		"noiDungTomTat": "Rối loạn tiêu hóa ở trẻ em là một trong những nguyên nhân khiến trẻ biếng ăn, suy dinh dưỡng, chậm phát triển cả về thể chất lẫn trí tuệ. Vì thế, có một chế độ dinh dưỡng tốt sẽ giúp bé nhanh phục hồi sức khỏe và hỗ trợ điều trị bệnh mau khỏi. Vậy rối loạn tiêu hóa ở trẻ em nên ăn gì và kiêng gì?",
+		"tinhTrang" : 1,
+		"noiDung" :[
+			{
+				"thuTuSapXep":1,
+				"tieuDePhan":"Trẻ bị rối loạn tiêu hóa nên kiêng ăn gì?",
+				"noiDung" : "Đồ ăn nhanh: Mẹ không nên cho bé ăn đồ ăn nhanh như xúc xích, lạp xường, pizza, thịt hộp, hamburger, thịt gà rán, các loại đồ chiên rán khác. Những món này khó tiêu, khiến hệ tiêu hóa của bé phải làm việc quá sức và bệnh rối loạn tiêu hóa càng trầm trọng hơn.",
+				"hinhAnh" : [
+					{"hinh" : "dinhduong5.jpg"}	
+				]
+			},
+			{
+				"thuTuSapXep":2,
+				"tieuDePhan":"Rối loạn tiêu hóa ở trẻ em nên ăn gì?",
+				"noiDung" : "Dinh dưỡng bữa ăn: Bữa ăn của bé cần đầy đủ, cân đối 4 nhóm chất gồm chất đạm, chất béo, bột đường, chất xơ, vitamin và khoáng chất. Cần lựa chọn thực phẩm sạch, chế biến và bảo quản đúng cách bởi một trong những nguyên nhân gây rối loạn tiêu hóa là do lựa chọn, chế biến thực phẩm không đảm bảo vệ sinh.",
+				"hinhAnh" : [
+					{"hinh" : "dinhduong6.jpg"}	
+				]
+			}
+		]
+	},
+	{
+		"idLoai":4,
+		"idBai":10,
+		"tieuDe" : "Phong cách sống của người đời",
+		"noiDungTomTat": "Trong cuộc sống, ai cũng mong tồn tại được lâu trên trần gian này. Gặp nhau chúc nhau, trong dịp Tết ai cũng không quên câu chúc sống lâu trăm tuổi. Ngành y tế và các cơ quan có liên quan đến chăm sóc cuộc sống của con người đều có ý thức, có kế hoạch làm sao cho sức khỏe của con người ngày càng tăng tiến, tuổi thọ được nâng cao.",
+		"tinhTrang" : 1,
+		"noiDung" :[
+			{
+				"thuTuSapXep":1,
+				"tieuDePhan":"Lãng phí thời gian là mất tuyệt đối",
+				"noiDung" : "Mất tiền có thể kiếm lại được tiền, mất xe có thể sắm lại được xe nhưng mất thời gian thì chịu, đố ai có thể tìm lại được. Lãng phí thời gian là mất tuyệt đối.Thời gian là một dòng chảy thẳng; không bao giờ dừng lại và cũng không bao giờ quay lui. Mọi cơ hội, nếu bỏ qua là mất.",	
+				"hinhAnh" : [
+					{"hinh" : "0"}	
+				]
+			},
+			{
+				"thuTuSapXep":2,
+				"tieuDePhan":"Phong cách sống có khi không tương ứng với học vấn",
+				"noiDung" : "Thông thường phong cách sống tương ứng với trình độ học vấn. Ít thấy trường hợp người có trình độ văn hóa cao mà lại sống theo một phong cách thấp hèn hoặc ngược lại.",
+				"hinhAnh" : [
+					{"hinh" : "phongcachsong1.jpg"}	
+				]
+			},
+			{
+				"thuTuSapXep":3,
+				"tieuDePhan":"Mặc đẹp chưa hẳn thành người tử tế",
+				"noiDung" : "Một con người ăn mặc đẹp, sang trọng có khi là con người đứng đắn, tử tế. Nhưng cũng có người bề ngoài thì tuyệt diệu nhưng phẩm chất thì tầm thường thậm chí tồi tệ. Ông bà A có đứa con hư hỏng; đã bước vào tuổi trưởng thành mà nói năng xấc xược, tục tĩu, hay đánh mắng trẻ con, trêu ghẹo phụ nữ, chơi bời trác táng. Ông bà A thật là khổ sở, buồn bã mỗi khi họp tổ dân phố, nghe người ta nhận xét về con mình.",
+				"hinhAnh" : [
+					{"hinh" : "0"}	
+				]
+			}
+		]
+	},
+	{
+		"idLoai":4,
+		"idBai":11,
+		"tieuDe" : "KỸ NĂNG SỐNG CHO TRẺ MẦM NON: DẠY CON KỸ NĂNG SỐNG MẦM NON TỰ LẬP",
+		"noiDungTomTat": "Trang bị kỹ năng sống cho trẻ mầm non là điều quan trọng, nhiều phụ huynh bảo bọc con quá kỹ, khiến con không thích nghi được với môi trường xung quanh, dẫn đến những sai lệch trong hành động. Bài viết dưới đây, trường mầm non quốc tế Việt Úc (VAS) sẽ hướng dẫn các bậc phụ huynh cách rèn luyện kỹ năng sống mầm non cho trẻ tự lập.",
+		"tinhTrang" : 1,
+		"noiDung" :[
+			{
+				"thuTuSapXep":1,
+				"tieuDePhan":"DÀNH CHO HỌC SINH MẦM NON",
+				"noiDung" : "Cha mẹ nào cũng luôn mong muốn dành những điều tốt đẹp nhất cho con của mình từ miếng ăn cho đến giấc ngủ. Tuy nhiên, phụ huynh bảo bọc con mình quá kỹ, khiến bé không thích nghi được với môi trường xung quanh, khả năng tự lập thấp và dẫn đến những sai lệch trong nhận thức lẫn hành động. Vì thế nhà trường và gia đình cần phải tìm ra những phương pháp nuôi dạy trẻ từ 0 đến 6 tuổi phù hợp để trẻ rèn luyện kỹ năng sống mầm non tự lập.",
+				"hinhAnh" : [
+					{"hinh" : "phongcachsong2.jpg"}	
+				]
+			},
+			{
+				"thuTuSapXep":2,
+				"tieuDePhan":"Phương pháp dạy trẻ 2 tuổi: Rèn luyện các kỹ năng tự lập",
+				"noiDung" : "Đối với trẻ lúc lên 2 bắt đầu nhận thức được các vấn đề đơn giản xung quanh trong cuộc sống, lúc này phụ huynh nên rèn luyện bé các kỹ năng tự chăm sóc bản thân tự chơi, tự ăn, tự uống nước và thay áo quần khi bẩn…Bên cạnh đó các mẹ cũng nên tập cho con mình thói quen giữ gìn vệ sinh. Đây là phương pháp dạy trẻ 2 tuổi mà phụ huynh cần biết.",
+				"hinhAnh" : [
+					{"hinh" : "0"}	
+				]
+			},
+			{
+				"thuTuSapXep":3,
+				"tieuDePhan":"Phương pháp dạy trẻ 4 tuổi về kỹ năng tự lập",
+				"noiDung" : "Với những cách nuôi dạy trẻ 4 tuổi trong kỹ năng sống mầm non như phụ giúp bố mẹ làm việc như dọn dẹp đồ chơi sau khi chơi xong, tự bỏ áo quần bẩn của mình vào máy giặt…dù đây là những việc vặt nhưng sẽ giúp trẻ hình thành các thói quen và suy nghĩ tích cực ngay từ khi còn nhỏ.",
+				"hinhAnh" : [
+					{"hinh" : "0"}	
+				]
+			}
+		]
+	},
+	{
+		"idLoai":4,
+		"idBai":12,
+		"tieuDe" : "KỸ NĂNG SỐNG LÀ GÌ? VAI TRÒ CỦA KỸ NĂNG SỐNG MÀ AI CŨNG CẦN",
+		"noiDungTomTat": "Kỹ năng sống được xem là một phần vô cùng quan trọng giúp mỗi cá nhân đạt được sự thành công trong công việc và cả đời sống cá nhân. Vậy kỹ năng sống là gì? Bao gồm những gì và có vai trò như thế nào? Hãy cùng CET khám phá ngay sau đây nhé!",
+		"tinhTrang" : 1,
+		"noiDung" :[
+			{
+				"thuTuSapXep":1,
+				"tieuDePhan":"Kỹ năng sống là gì?",
+				"noiDung" : "Nói một cách dễ hiểu, kỹ năng sống là tập hợp những hành vi tích cực và khả năng thích ứng với môi trường sống giúp cho mỗi nhân đối mặt và giải quyết những thách thức hằng ngày. Kỹ năng sống được hình thành từ quá trình giáo dục hay trải nghiệm trực tiếp trong đời sống. Ngày nay, có thể nói rằng, kỹ năng sống là tiêu chí mà bất kỳ bậc phụ huynh, nhà trường hay một tổ chức nào cũng mong muốn con em, học sinh, nhân viên của mình được trang bị tốt.",
+				"hinhAnh" : [
+					{"hinh" : "phongcachsong3.jpg"}	
+				]
+			},
+			{
+				"thuTuSapXep":2,
+				"tieuDePhan":"Kỹ năng thoát hiểm",
+				"noiDung" : "Là một trong những kỹ năng sống được rất nhiều người quan tâm và muốn rèn luyện, kỹ năng thoát hiểm giúp bạn bình tĩnh đối mặt với các vấn đề và nhanh chóng tìm ra được cách xử lý phù hợp để bảo vệ cho tính mạng và tài sản không chỉ của bản thân mà còn mọi người xung quanh. Kỹ năng thoát hiểm bao gồm cả thoát khỏi tai nạn, thảm họa thiên nhiên hoặc xâm hại cơ thể, tài sản.",
+				"hinhAnh" : [
+					{"hinh" : "0"}	
+				]
+			},
+			{
+				"thuTuSapXep":3,
+				"tieuDePhan":"Kỹ năng giải quyết vấn đề",
+				"noiDung" : "Trong cuộc sống, có rất nhiều tình huống xảy đến và tất nhiên, chúng không thể “xếp hàng” chờ đợi bạn ghé thăm lần lượt. Thậm chí, những vấn đề này còn ẩn chứa nhiều mối nguy hiểm có thể gây ra rắc rối cho công việc, mối quan hệ với mọi người và khiến cuộc sống của bạn trở nên khó khăn nếu bạn không biết cách xử lý. Đối với các bạn sinh viên, kỹ năng giải quyết vấn đề sẽ là một điểm cộng dành cho bạn khi tham gia vào quá trình tuyển dụng tại các công ty, doanh nghiệp.",
+				"hinhAnh" : [
+					{"hinh" : "phongcachsong4.jpg"}	
+				]
+			}
+		]
+	}
+]

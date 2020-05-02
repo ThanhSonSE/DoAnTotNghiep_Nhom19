@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    padding: 0 ;
+    margin: 0;
+    height: 140px;
+    width: 100%;
+    background-color: white;
+    z-index: 10;
+    text-align: center;
+    position: fixed;
+}
+.header-div{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.logo a img{
+    float: left;
+}
+.taikhoan{
+    float: right;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;    
+}
+.taikhoan a{
+    height: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #3498db;
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    margin-left: 20px;
+}
+.taikhoan a:hover{
+    opacity: 0.7;
+}
+span{
+    margin-left: 10px;
+}
+
+.ul-div{
+    float: left;
+    width: 100%;
+    height: 56px;
+    background-color: white;
+    z-index: 1;
+    background-color:#74bff1;
+}
+ul {
+    clear: both;
+    list-style-type: none;
+    overflow: hidden;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+    
+}
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+}
+  
+li a:hover {
+    opacity: 0.6;
+}
+
