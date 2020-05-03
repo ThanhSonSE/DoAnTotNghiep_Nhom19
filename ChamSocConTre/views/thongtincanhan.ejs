@@ -2,136 +2,134 @@
 <html>
 
 <head>
-  <title>Trang Chủ</title>
-  <link rel="stylesheet" type="text/css" href="/stylesheets/taikhoan-style.css" />
-  <link rel="stylesheet" type="text/css" href="/stylesheets/footer-style.css" />
+    <title>Trang Chủ</title>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/taikhoan-style.css" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/footer-style.css" />
 </head>
 
 <body>
-  <% include header%>
-  <% if(thongbao==="pass sai"){%>
-  <script>
-    alert("Mật khẩu không đúng !!!");
-  </script>
-  <% }else if(thongbao==="đăng ký thành công"){%>
-  <script>
-    alert("Đăng ký thành công");
-  </script>
-  <%}else if(thongbao === "Không có"){%>
-  <script>
-    alert("Email chưa tồn tại !!!");
-  </script>
-  <%}else if(thongbao === "email bị trùng"){%>
-    <script>
-      alert("Email đã được sử dụng !!!");
-    </script>
-  <%}%>
-    <section class="user">
-        <div class="user_options-container">
-          <div class="user_options-text">
-            <div class="user_options-unregistered">
-              <h2 class="user_unregistered-title">Bạn chưa có tài khoản?</h2>
-              <p class="user_unregistered-text">Hãy đăng ký tài khoản thôi nào!</p>
-              <button class="user_unregistered-signup" id="signup-button" onclick="clickSignIn()">Đăng Ký</button>
-            </div>
-      
-            <div class="user_options-registered">
-              <h2 class="user_registered-title">Bạn đã có tài khoản?</h2>
-              <p class="user_registered-text">Hãy đăng nhập nào!</p>
-              <button class="user_registered-login" id="login-button" onclick="clickLogin()">Đăng Nhập</button>
-            </div>
-          </div>
-          
-          <div class="user_options-forms" id="user_options-forms">
-            <div class="user_forms-login">
-              <h2 class="forms_title">Đăng Nhập</h2>
-              <form class="forms_form" action="/taikhoan/dangnhap" method="post">
-                <fieldset class="forms_fieldset">
-                  <div class="forms_field">
-                    <input type="email" name="email" placeholder="Email" class="forms_field-input" required autofocus />
-                  </div>
-                  <div class="forms_field">
-                    <input type="password" name="password" placeholder="Mật khẩu" class="forms_field-input" required />
-                  </div>
-                </fieldset>
-                <div class="forms_buttons">
-                  <button type="button" class="forms_buttons-forgot">Quên mật khẩu?</button>
-                  <input type="submit" value="Đăng nhập" class="forms_buttons-action">
-                </div>
-              </form>
-            </div>
-            <div class="user_forms-signup">
-              <h2 class="forms_title">Đăng Ký</h2>
-              <form class="forms_form" action="/taikhoan/dangky" method="POST" onsubmit="return ktemail();">
-                <fieldset class="forms_fieldset">
-                  <div class="forms_field" >
-                    <input type="text" name="tenNguoiDung" placeholder="Tên người dùng" class="forms_field-input" required/>
-                  </div>
-                  <div class="forms_field">
-                    <input type="email" id="emailDK" name="email" placeholder="Email" class="forms_field-input" required onchange="ktemail();"/>
-                  </div>
-                  <div class="forms_field">
-                    <input type="password" name="password" placeholder="Mật khẩu" class="forms_field-input" required />
-                  </div>
-                  <div class="forms_field">
-                    <input type="passwordagain" placeholder="Nhập lại mật khẩu" class="forms_field-input" required />
-                  </div>
-                  <div class="forms_field">
-                    <input type="text" name="soDienThoai" placeholder="Số điện thoại" class="forms_field-input" required minlength="10" maxlength="10" />
-                  </div>
-                </fieldset>
-                <div class="forms_buttons">
-                  <input type="submit" value="Đăng Ký" class="forms_buttons-action">
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-      </section>
-      <% include footer%>
-  <script type="text/javascript">
-    /**
-* Variables
-*/
-    const signupButton = document.getElementById('signup-button'),
-      loginButton = document.getElementById('login-button'),
-      userForms = document.getElementById('user_options-forms')
+    <% include header%>
+        <% if(thongbao==="pass sai"){%>
+            <script>
+                alert("Mật khẩu không đúng !!!");
+            </script>
+            <% }else if(thongbao==="đăng ký thành công"){%>
+                <script>
+                    alert("Đăng ký thành công");
+                </script>
+                <%}else if(thongbao === "Không có"){%>
+                    <script>
+                        alert("Email chưa tồn tại !!!");
+                    </script>
+                    <%}else if(thongbao === "email bị trùng"){%>
+                        <script>
+                            alert("Email đã được sử dụng !!!");
+                        </script>
+                        <%}%>
+                            <section class="user">
+                                <div class="user_options-container">
+                                    <div class="user_options-text">
+                                        <div class="user_options-unregistered">
+                                            <h2 class="user_unregistered-title">Bạn chưa có tài khoản?</h2>
+                                            <p class="user_unregistered-text">Hãy đăng ký tài khoản thôi nào!</p>
+                                            <button class="user_unregistered-signup" id="signup-button" onclick="clickSignIn()">Đăng Ký</button>
+                                        </div>
 
-    /**
-     * Add event listener to the "Sign Up" button
-     */
-    signupButton.addEventListener('click', () => {
-      userForms.classList.remove('bounceRight')
-      userForms.classList.add('bounceLeft')
-    }, false)
+                                        <div class="user_options-registered">
+                                            <h2 class="user_registered-title">Bạn đã có tài khoản?</h2>
+                                            <p class="user_registered-text">Hãy đăng nhập nào!</p>
+                                            <button class="user_registered-login" id="login-button" onclick="clickLogin()">Đăng Nhập</button>
+                                        </div>
+                                    </div>
 
-    /**
-     * Add event listener to the "Login" button
-     */
-    loginButton.addEventListener('click', () => {
-      userForms.classList.remove('bounceLeft')
-      userForms.classList.add('bounceRight')
-    }, false)
+                                    <div class="user_options-forms" id="user_options-forms">
+                                        <div class="user_forms-login">
+                                            <h2 class="forms_title">Đăng Nhập</h2>
+                                            <form class="forms_form" action="/taikhoan/dangnhap" method="post">
+                                                <fieldset class="forms_fieldset">
+                                                    <div class="forms_field">
+                                                        <input type="email" name="email" placeholder="Email" class="forms_field-input" required autofocus />
+                                                    </div>
+                                                    <div class="forms_field">
+                                                        <input type="password" name="password" placeholder="Mật khẩu" class="forms_field-input" required />
+                                                    </div>
+                                                </fieldset>
+                                                <div class="forms_buttons">
+                                                    <button type="button" class="forms_buttons-forgot">Quên mật khẩu?</button>
+                                                    <input type="submit" value="Đăng nhập" class="forms_buttons-action">
+                                                </div>
+                                            </form>
+                                        </div>
+                                        <div class="user_forms-signup">
+                                            <h2 class="forms_title">Đăng Ký</h2>
+                                            <form class="forms_form" action="/taikhoan/dangky" method="POST" onsubmit="return ktemail();">
+                                                <fieldset class="forms_fieldset">
+                                                    <div class="forms_field">
+                                                        <input type="text" name="tenNguoiDung" placeholder="Tên người dùng" class="forms_field-input" required/>
+                                                    </div>
+                                                    <div class="forms_field">
+                                                        <input type="email" id="emailDK" name="email" placeholder="Email" class="forms_field-input" required onchange="ktemail();" />
+                                                    </div>
+                                                    <div class="forms_field">
+                                                        <input type="password" name="password" placeholder="Mật khẩu" class="forms_field-input" required />
+                                                    </div>
+                                                    <div class="forms_field">
+                                                        <input type="passwordagain" placeholder="Nhập lại mật khẩu" class="forms_field-input" required />
+                                                    </div>
+                                                    <div class="forms_field">
+                                                        <input type="text" name="soDienThoai" placeholder="Số điện thoại" class="forms_field-input" required minlength="10" maxlength="10" />
+                                                    </div>
+                                                </fieldset>
+                                                <div class="forms_buttons">
+                                                    <input type="submit" value="Đăng Ký" class="forms_buttons-action">
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <% include footer%>
+                                <script type="text/javascript">
+                                    /**
+                                     * Variables
+                                     */
+                                    const signupButton = document.getElementById('signup-button'),
+                                        loginButton = document.getElementById('login-button'),
+                                        userForms = document.getElementById('user_options-forms')
 
-    function ktemail(){
-      var http = new XMLHttpRequest();
-      var email = document.getElementById('emailDK').value;
-      http.open('get','/taikhoan/ktemail/'+email,true);
-      http.send();
-      http.onreadystatechange = function(){
-        if(this.readyState == 4 && this.status == 200){
-          if(this.responseText === "0"){
-            return true;
-          }
-          alert("Email đã được sử dụng");
-          return false;
-        }
-      }
-      return false;
-    }
-    
+                                    /**
+                                     * Add event listener to the "Sign Up" button
+                                     */
+                                    signupButton.addEventListener('click', () => {
+                                        userForms.classList.remove('bounceRight')
+                                        userForms.classList.add('bounceLeft')
+                                    }, false)
 
-  </script>
+                                    /**
+                                     * Add event listener to the "Login" button
+                                     */
+                                    loginButton.addEventListener('click', () => {
+                                        userForms.classList.remove('bounceLeft')
+                                        userForms.classList.add('bounceRight')
+                                    }, false)
+
+                                    function ktemail() {
+                                        var http = new XMLHttpRequest();
+                                        var email = document.getElementById('emailDK').value;
+                                        http.open('get', '/taikhoan/ktemail/' + email, true);
+                                        http.send();
+                                        http.onreadystatechange = function() {
+                                            if (this.readyState == 4 && this.status == 200) {
+                                                if (this.responseText === "0") {
+                                                    return true;
+                                                }
+                                                alert("Email đã được sử dụng");
+                                                return false;
+                                            }
+                                        }
+                                        return false;
+                                    }
+                                </script>
 </body>
 
 </html>
